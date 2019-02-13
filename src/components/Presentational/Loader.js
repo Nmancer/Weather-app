@@ -12,7 +12,7 @@ const DotWrapper = styled.div`
   justify-content: center;
 `;
 const Dot = styled.div`
-  background-color: cyan;
+  background-color: black;
   border-radius: 50%;
   width: 10px;
   height: 10px;
