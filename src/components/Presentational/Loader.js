@@ -21,7 +21,7 @@ const Dot = styled.div`
   animation-delay: ${props => props.delay};
 `;
 const LodingText = styled.h1`
-  color: cyan;
+  color: black;
 `;
 const Loader = () => {
   return (
